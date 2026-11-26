@@ -4,7 +4,7 @@
 AeroSim is a modern, responsive web application designed for smart baggage tracking and passenger flight information management. It allows passengers to follow each stage of their luggage's journey from check-in through departure, transit, and baggage carousel retrieval.
 
 ## 🌐 Live Website (GitHub Pages)
-👉 **[View Live Site](https://ronak-pandey.github.io/CSE_326_PROJECT_CA-2/)**
+👉 **[View Live Site](https://ronak-pandey.github.io/CSE_326_PROJECT_CA-1/)**
 
 ---
 
