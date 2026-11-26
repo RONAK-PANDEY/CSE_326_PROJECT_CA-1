@@ -1,10 +1,22 @@
 # AeroSim - Baggage Tracking & Airport Management System
-**CSE 326 Project (CA-2)**
+**CSE 326 Project (CA-1)**
 
 AeroSim is a modern, responsive web application designed for smart baggage tracking and passenger flight information management. It allows passengers to follow each stage of their luggage's journey from check-in through departure, transit, and baggage carousel retrieval.
 
 ## 🌐 Live Website (GitHub Pages)
 👉 **[View Live Site](https://ronak-pandey.github.io/CSE_326_PROJECT_CA-2/)**
+
+---
+
+## 🎥 Project Demonstration
+<div align="center">
+  <iframe width="100%" height="450" src="https://www.youtube.com/embed/OskloWT9Ktw" title="AeroSim Project Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br><br>
+  <a href="https://youtu.be/OskloWT9Ktw">
+    <img src="https://img.youtube.com/vi/OskloWT9Ktw/hqdefault.jpg" alt="AeroSim Video Demonstration" width="600">
+  </a>
+  <p><strong><a href="https://youtu.be/OskloWT9Ktw">▶ Watch Project Demonstration on YouTube</a></strong></p>
+</div>
 
 ---
 
